@@ -1,0 +1,16 @@
+This entry stores the official structure and entry IDs of the permanent Master Dynamic Task Google Form, which is used for automation of all tasks submitted to the dynamic calendar pipeline. This form must never be changed.
+Form URL:
+https://docs.google.com/forms/d/e/1FAIpQLSdmNq231XNKojvteCGr5gBahQ-iY29LNttiszvUR1IAf3S85A/viewform
+Entry IDs:
+Task Title – entry.23120843
+Description/Notes – entry.506331814
+Category – entry.853016298
+Start Date – entry.1243565319
+Start Time – entry.1466094463
+End Date – entry.2101764023
+End Time – entry.722744562
+Location – entry.1500800288
+Submitted By – entry.822074027
+Working Prefilled Example (manual submission):
+https://docs.google.com/forms/d/e/1FAIpQLSdmNq231XNKojvteCGr5gBahQ-iY29LNttiszvUR1IAf3S85A/viewform?usp=pp_url&entry.23120843=Test+-+Task+Title&entry.506331814=Test+-+Description%2FNotes&entry.853016298=Personal+Life&entry.1243565319=1994-10-18&entry.1466094463=17%3A00&entry.2101764023=1994-10-18&entry.722744562=17%3A30&entry.1500800288=Test+-+Location&entry.822074027=Test+-+Submitted+By
+
